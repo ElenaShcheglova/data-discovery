@@ -29,8 +29,10 @@
 <li> Задача №2: Написать запрос, который собирает данные о балансах студентов за каждый прожитый ими день. </li>	
 </ol> 
 <p> Как решила: 
-<li> ;</li> 
-<li> ; </li>
-<li> .</li>
-</ol>  
- 
+<li> Написала запрос и собрала таблицу с изменениями студенческих балансов;</li> 
+<li> Создайте визуализацию итогового результата. </li>
+</ol>
+<a href="https://docs.google.com/document/d/11oa57_yvixkBRekbKv1p-1MMNdPPknB6/edit?usp=sharing&ouid=113426531668764401601&rtpof=true&sd=true, https://docs.google.com/presentation/d/14OT_qjQDrkLKhPyt86AUbYha0uXhhNYO/edit?usp=sharing&ouid=113426531668764401601&rtpof=true&sd=true, https://drive.google.com/file/d/15miiVvYxWQZBKxV58gIz2TlnA7UOy3ui/view?usp=sharing">Сссылка на проект</a>
+
+<p> Выводы (итоги):
+<p> Визуализация графика не демонстрирует отклонений. Средний баланс положительный, но при детальном разборе по дням в разбивке каждого студента выявлено отрицательные значения баланса. Необходимо найти ошибку загрузки данных или выставить счета студентам
